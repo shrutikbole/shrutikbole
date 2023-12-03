@@ -1,8 +1,7 @@
 [![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)](https://shrutikbole.io)
 <h1 align="center">Hi 👋, I'm shrutikbole</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
